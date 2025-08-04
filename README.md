@@ -25,4 +25,5 @@ You need to add an env.local file with the following properties
 I did not use session token here, but you do need a valid Token
 
 NEXT_PUBLIC_MAPBOX_TOKEN=your_mapbox_token_here
+
 NEXT_PUBLIC_MAPBOX_SESSION_TOKEN=your_session_token_here
